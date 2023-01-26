@@ -1,0 +1,5 @@
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.AssemblyReference.cache
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\Calc\Calc\obj\Debug\net6.0-windows\App.g.cs
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\Calc\Calc\obj\Debug\net6.0-windows\Calc_MarkupCompile.cache
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\Calc\Calc\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\Calc\Calc\obj\Debug\net6.0-windows\Calc_MarkupCompile.lref
